@@ -1,7 +1,14 @@
-*{
+* {
     box-sizing: border-box;
 }
 
-body{
+body {
     margin: 10%;
+}
+
+/* span .paginate_button {
+    display: none !important;
+} */
+.ex-2 {
+    width: 80%;
 }
